@@ -236,8 +236,8 @@ def olvido_contrasena(correo):
     smtp_server = 'smtp.gmail.com'
     smtp_port = 465 
 
-    sender_email = 'gamacortezr@gmail.com'
-    password = 'qsik jgqd mkee urej'
+    sender_email = ''
+    password = ''
 
     receiver_email = correo
 
